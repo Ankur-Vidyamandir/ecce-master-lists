@@ -1,4 +1,4 @@
 # Toys
 
 #### Tags
-classroom, therapycenter
+[classroom](https://github.com/Ankur-Vidyamandir/ecce-master-lists/blob/main/list-toys.md#tags), therapycenter
